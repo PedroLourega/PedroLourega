@@ -1,12 +1,12 @@
 
-<img src="https://media.licdn.com/dms/image/C4D12AQF1hJoh1-sK3Q/article-cover_image-shrink_600_2000/0/1520105053710?e=2147483647&v=beta&t=GQdeMSaDb8t4_zVtVBBKpr8adoHnGL6srgsKd-utgJg">
+<img width="700"  src="https://media.licdn.com/dms/image/C4D12AQF1hJoh1-sK3Q/article-cover_image-shrink_600_2000/0/1520105053710?e=2147483647&v=beta&t=GQdeMSaDb8t4_zVtVBBKpr8adoHnGL6srgsKd-utgJg">
 
 # Olá, seja bem vindo ao meu perfil! 😀
 
 ---
 
-Me chamo Pedro,<br>
-sou estudante de Analise e Desenvolvimento de Sistemas e este é meu perfil de estudos e projetos.
+<em>Me chamo Pedro,<br>
+sou estudante de Analise e Desenvolvimento de Sistemas e este é meu perfil de estudos e projetos.<em>
 
 ---
 
