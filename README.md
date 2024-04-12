@@ -20,4 +20,16 @@ sou estudante de Analise e Desenvolvimento de Sistemas e este é meu perfil de e
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> 
 
+
+ <img alt="Most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLourega&theme=github_dark"></img>
+
+
 ---
+### Links:<br>
+
+* <a href="https://github.com/PedroLourega/estudos-C">Estudos C#</a><br>
+* <a href="https://github.com/PedroLourega/projetoCSS">Estudos CSS</a><br>
+
+---
+
+<img height="250px" src="https://media1.tenor.com/m/JWJRjZFUa_cAAAAC/one-piece-anime.gif"></img><br>
