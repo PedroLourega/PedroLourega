@@ -27,9 +27,9 @@ sou estudante de Analise e Desenvolvimento de Sistemas e este é meu perfil de e
 ---
 ### Links:<br>
 
-* <a href="https://github.com/PedroLourega/estudos-C">Estudos C#</a><br>
-* <a href="https://github.com/PedroLourega/estudos">Estudos CSS</a><br>
-* <a href="https://github.com/PedroLourega/studycodes1">Projetos</a><br>
+
+* <a href="https://github.com/PedroLourega/studycodes1">Studies</a><br>
+* <a href="https://github.com/PedroLourega/website_project1">Website Project 1 | COffee Shop </a><br>
 
 ---
 
