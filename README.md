@@ -35,5 +35,7 @@ sou estudante de Analise e Desenvolvimento de Sistemas e este é meu perfil de e
 
 
 ---
+<p align="center">
+  <img height="250px" src="https://media1.tenor.com/m/JWJRjZFUa_cAAAAC/one-piece-anime.gif"></img><br>
+</p>
 
-<img height="250px" src="https://media1.tenor.com/m/JWJRjZFUa_cAAAAC/one-piece-anime.gif"></img><br>
