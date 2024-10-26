@@ -30,7 +30,7 @@ sou estudante de Analise e Desenvolvimento de Sistemas e este é meu perfil de e
 
 
 * <a href="https://github.com/PedroLourega/studycodes1">Studies</a><br>
-* <a href="https://github.com/PedroLourega/study-projects">Study Projects</a><br>
+* <a href="https://github.com/PedroLourega/study_projects">Study Projects</a><br>
 * <a href="https://github.com/PedroLourega/website_project1">Website Project 1 | Coffee Shop </a><br>
 
 
