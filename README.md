@@ -12,7 +12,8 @@
 <li>🚀 Meu objetivo é continuar aprimorando minhas habilidades em programação e criar projetos que possam impactar e transformar experiências. Valorizo projetos práticos e desafios que testem minha lógica e conhecimento técnico.</li><br>
 
 <li>📈 Estou sempre em busca de aprender mais e desenvolver soluções inovadoras. Aqui no GitHub você encontrará projetos que refletem meu progresso e dedicação.</li> <em>
----
+
+<hr>
 
 ### Experiências e Teclogias:<br>
 
@@ -29,16 +30,19 @@
  <img alt="Most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLourega&theme=github_dark"></img>
 
 
----
+
+<hr>
+
 ### Links:<br>
 
 
 * <a href="https://github.com/PedroLourega/studycodes1">Studies</a><br>
 * <a href="https://github.com/PedroLourega/study_projects">Study Projects</a><br>
 * <a href="https://github.com/PedroLourega/website_project1">Website Project 1 | Coffee Shop </a><br>
+* <a href="https://github.com/PedroLourega/structure_code_python ">Structure Code in Python </a> (may be interesting for beginners in programming, or if you want to learn about the language).<br>
 
+<hr>
 
----
 <p align="center">
   <img height="250px" src="https://media1.tenor.com/m/JWJRjZFUa_cAAAAC/one-piece-anime.gif"></img><br>
 </p>
