@@ -1,7 +1,7 @@
 
 <img width="980"  src="https://media.licdn.com/dms/image/C4D12AQF1hJoh1-sK3Q/article-cover_image-shrink_600_2000/0/1520105053710?e=2147483647&v=beta&t=GQdeMSaDb8t4_zVtVBBKpr8adoHnGL6srgsKd-utgJg">
 
-# Bem vindo ao meu perfil! 😀
+# Welcome to my profile! 😀
 
 
 
@@ -12,10 +12,21 @@
 <li>🚀 Meu objetivo é continuar aprimorando minhas habilidades em programação e criar projetos que possam impactar e transformar experiências. Valorizo projetos práticos e desafios que testem minha lógica e conhecimento técnico.</li><br>
 
 <li>📈 Estou sempre em busca de aprender mais e desenvolver soluções inovadoras. Aqui no GitHub você encontrará projetos que refletem meu progresso e dedicação.</li> <em>
+ 
+<hr>
+
+<em>👋 Hi! I'm Pedro Lourega!<br>
+
+<li>🎓 Student of Systems Analysis and Development with a strong interest in technology, especially web and backend development. Experienced in Python, JavaScript, HTML and CSS and with great knowledge in hardware.</li><br>
+
+<li>🚀 My goal is to continue improving my programming skills and create projects that can impact and transform experiences. I value practical projects and challenges that test my logic and technical knowledge.</li><br>
+
+<li>📈 I'm always looking to learn more and develop innovative solutions. Here on GitHub you will find projects that reflect my progress and dedication.</li> <em>
+
 
 <hr>
 
-### Experiências e Teclogias:<br>
+### Experiences and Technologies:<br>
 
 * HTML
 * CSS
