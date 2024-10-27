@@ -1,13 +1,17 @@
 
 <img width="980"  src="https://media.licdn.com/dms/image/C4D12AQF1hJoh1-sK3Q/article-cover_image-shrink_600_2000/0/1520105053710?e=2147483647&v=beta&t=GQdeMSaDb8t4_zVtVBBKpr8adoHnGL6srgsKd-utgJg">
 
-# Olá, seja bem vindo ao meu perfil! 😀
+# Bem vindo ao meu perfil! 😀
 
----
 
-<em>Me chamo Pedro,<br>
-sou estudante de Analise e Desenvolvimento de Sistemas e este é meu perfil de estudos e projetos.<em>
 
+<em>👋 Olá! Eu sou Pedro Lourega!<br>
+
+<li>🎓 Estudante de Análise e Desenvolvimento de Sistemas com um forte interesse por tecnologia, especialmente desenvolvimento web e backend. Experiente em Python, JavaScript, HTML e CSS e com grande conhecimento em hardware.</li><br>
+
+<li>🚀 Meu objetivo é continuar aprimorando minhas habilidades em programação e criar projetos que possam impactar e transformar experiências. Valorizo projetos práticos e desafios que testem minha lógica e conhecimento técnico.</li><br>
+
+<li>📈 Estou sempre em busca de aprender mais e desenvolver soluções inovadoras. Aqui no GitHub você encontrará projetos que refletem meu progresso e dedicação.</li> <em>
 ---
 
 ### Experiências e Teclogias:<br>
