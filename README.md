@@ -35,6 +35,7 @@
 * NodeJS
 * Git
 * MySQL
+* SQLite
 
 <br>
 
