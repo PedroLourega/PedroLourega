@@ -28,14 +28,15 @@
 
 ### Experiences and Technologies:<br>
 
-* HTML
-* CSS
-* JavaScript
 * Python
+*Flask
 * NodeJS
 * Git
 * MySQL
 * SQLite
+* HTML
+* CSS
+* JavaScript
 
 <br>
 
