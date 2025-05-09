@@ -29,7 +29,7 @@
 ### Experiences and Technologies:<br>
 
 * Python
-*Flask
+* Flask
 * NodeJS
 * Git
 * MySQL
