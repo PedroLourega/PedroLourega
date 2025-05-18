@@ -57,10 +57,10 @@
 ### Links:<br>
 
 
-* <a href="https://github.com/PedroLourega/studycodes1">Studies</a><br>
-* <a href="https://github.com/PedroLourega/study_projects">Study Projects</a><br>
-* <a href="https://github.com/PedroLourega/website_project1">Website Project 1 | Coffee Shop </a><br>
-* <a href="https://github.com/PedroLourega/structure_code_python ">Structure Code in Python </a> (may be interesting for beginners in programming, or if you want to learn about the language).<br>
+* <a href="https://github.com/PedroLourega/study">Studies</a><br>
+* <a href="https://github.com/PedroLourega/projects">Study Projects</a><br>
+* <a href="https://github.com/PedroLourega/coffee_website_study">Coffee Shop </a><br>
+* <a href="https://github.com/PedroLourega/sistema_lanhouse">Lan House System - Python.<br>
 
 <hr>
 
