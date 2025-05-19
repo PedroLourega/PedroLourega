@@ -4,8 +4,19 @@
   <img src="github_wallpaper.jpg" width="900">
 </p>
 
-## 👨‍💻 Seja muito bem vindo ao meu perfil do Github!<br>Muito prazer, eu me chamo Pedro Lourega!<br><br>
+## 👨‍💻 Welcome to my GitHub profile!<br>Nice to meet you, my name is Pedro Lourega!<br>
+<div> I am passionate about technology and programming, always eager to learn something new and grow as a developer. Currently, I am studying Systems Analysis and Development at FADERGS and focusing my efforts on backend and web development, with an emphasis on Python, Flask, HTML, CSS, JavaScript, and SQLite. I have been dedicating myself to creating practical projects, exploring concepts of logic, data structures, and solving real problems with clean, simple, and functional code.<br><br>
+On my GitHub, you will find:
 
+<li>Backend-focused systems and data manipulation;</li> <li>Python applications with well-commented and organized code;</li> <li>Study projects with HTML, CSS, and JavaScript to reinforce front-end concepts.</li><br>
+I am self-taught, naturally curious, and I believe the best way to learn is by building, testing, failing, and improving.
+I like to understand how things work under the hood and am always exploring new tools, frameworks, and best development practices.
+My goal is to grow as a developer, contribute to real projects, and become increasingly skilled technically.
+
+</div> <hr>
+
+
+PTBR:<br>
 <div>
 Sou apaixonado por tecnologia e programação, sempre em busca de aprender algo novo e evoluir como desenvolvedor.
 Atualmente estudo Análise e Desenvolvimento de Sistemas na FADERGS e foco meus esforços em desenvolvimento backend e web, com ênfase em Python, Flask, HTML, CSS, JavaScript e SQLite.
