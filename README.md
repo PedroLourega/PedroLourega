@@ -81,8 +81,8 @@ Meu objetivo é crescer como desenvolvedor, contribuir para projetos reais e me 
 
 * <a href="https://github.com/PedroLourega/study">Studies</a><br>
 * <a href="https://github.com/PedroLourega/projects">Study Projects</a><br>
-* <a href="https://github.com/PedroLourega/coffee_website_study">Coffee Shop </a><br>
-* <a href="https://github.com/PedroLourega/sistema_lanhouse">Lan House System - Python.<br>
+* <a href="https://github.com/PedroLourega/coffee_website_study">Coffee Shop - HTML, CSS e JavaScript (Copy video)</a><br>
+* <a href="https://github.com/PedroLourega/sistema_lanhouse">Lan House System - Python<br>
 
 <hr>
 
