@@ -1,6 +1,8 @@
 
-<img width="980"  src="https://media.licdn.com/dms/image/C4D12AQF1hJoh1-sK3Q/article-cover_image-shrink_600_2000/0/1520105053710?e=2147483647&v=beta&t=GQdeMSaDb8t4_zVtVBBKpr8adoHnGL6srgsKd-utgJg">
 
+<p align="center">
+  <img src="github_wallpaper.jpg" width="900">
+</p>
 
 ## 👨‍💻 Seja muito bem vindo ao meu perfil do Github!<br>Muito prazer, eu me chamo Pedro Lourega!<br><br>
 
