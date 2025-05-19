@@ -66,10 +66,10 @@ Meu objetivo é crescer como desenvolvedor, contribuir para projetos reais e me 
 
 
 
-
+<p align="center">
  <img alt="Github Stats" height="200em" src="https://github-readme-stats.vercel.app/api?username=PedroLourega&show_icons=true&theme=github_dark"></img>
  <img alt="Most used languages" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLourega&theme=github_dark"></img>
-
+</p>
 
 
 <hr>
