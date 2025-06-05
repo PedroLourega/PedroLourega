@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="github_wallpaper.jpg" width="900">
+  <img src="github_wallpaper.jpg" width="700">
 </p>
 
 ## 👨‍💻 Welcome to my GitHub profile!<br>Nice to meet you, my name is Pedro Lourega!<br>
