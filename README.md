@@ -56,10 +56,6 @@ Meu objetivo é crescer como desenvolvedor, contribuir para projetos reais e me 
     Flask
   </li>
   <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="NodeJS" />
-    Node.js
-  </li>
-  <li>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="Git" />
     Git
   </li>
@@ -98,6 +94,8 @@ Meu objetivo é crescer como desenvolvedor, contribuir para projetos reais e me 
 * <a href="https://github.com/PedroLourega/projects">Study Projects</a><br>
 * <a href="https://github.com/PedroLourega/coffee_website_study">Coffee Shop - HTML, CSS e JavaScript (Copy video)</a><br>
 * <a href="https://github.com/PedroLourega/sistema_lanhouse">Lan House System - Python<br>
+* <a href="https://github.com/PedroLourega/sitema_psicologos">Connect Psicologos System - Python<br>
+
 
 <hr>
 
