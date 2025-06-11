@@ -90,11 +90,11 @@ Meu objetivo é crescer como desenvolvedor, contribuir para projetos reais e me 
 ### Links:<br>
 
 
-* <a href="https://github.com/PedroLourega/study">Studies</a><br>
-* <a href="https://github.com/PedroLourega/projects">Study Projects</a><br>
-* <a href="https://github.com/PedroLourega/coffee_website_study">Coffee Shop - HTML, CSS e JavaScript (Copy video)</a><br>
-* <a href="https://github.com/PedroLourega/sistema_lanhouse">Lan House System - Python<br>
-* <a href="https://github.com/PedroLourega/sitema_psicologos">Connect Psicologos System - Python<br>
+* <a href="https://github.com/PedroLourega/study"> Studies</a><br>
+* <a href="https://github.com/PedroLourega/projects"> Study Projects</a><br>
+* <a href="https://github.com/PedroLourega/coffee_website_study"> Coffee Shop</a>(HTML, CSS e JavaScript)<br>
+* <a href="https://github.com/PedroLourega/sistema_lanhouse"> Lan House System</a>(Python, HTML, CSS, JavaScript, Flask, SQLite)<br>
+* <a href="https://github.com/PedroLourega/sitema_psicologos"> Connect Psicologos System </a>(Python, HTML, CSS, JavaScript, Flask, SQLite)<br>
 
 
 <hr>
