@@ -1,82 +1,89 @@
-
-
 <p align="center">
-  <img src="github_wallpaper.jpg" width="900">
+  <img src="github_wallpaper.jpg" width="100%">
 </p>
 
-## 👨‍💻 Welcome to my GitHub profile!<br>Nice to meet you, my name is Pedro Lourega!<br>
-<div> I am passionate about technology and programming, always eager to learn something new and grow as a developer. Currently, I am studying Systems Analysis and Development at FADERGS and focusing my efforts on backend and web development, with an emphasis on Python, Flask, HTML, CSS, JavaScript, and SQLite. I have been dedicating myself to creating practical projects, exploring concepts of logic, data structures, and solving real problems with clean, simple, and functional code.<br><br>
+## Hello, I'm Pedro Lourega.
+
+I am a Systems Analysis and Development student at FADERGS based in Porto Alegre, Brazil.
+With a professional background in IT Infrastructure and Support since 2018, I am currently transitioning my career towards Software Development and Data Science.
+
+My current focus is on building robust backend solutions and exploring data analysis using **Python**. I value clean code, logical problem-solving, and understanding how systems work under the hood.
+
+**Main Focus:**
+* **Backend Development:** Python (Flask), API integration, and SQL/NoSQL databases.
+* **Data Science:** Currently enrolled in a Data Science Bootcamp (Santander/DIO), focusing on data manipulation with Pandas.
+* **Continuous Learning:** Moving from theoretical knowledge to practical, autonomous application.
+
+---
+
+## Olá, sou Pedro Lourega.
+
+Estudante de Análise e Desenvolvimento de Sistemas na FADERGS, residente em Porto Alegre.
+Possuo experiência profissional em Infraestrutura de TI e Suporte Técnico desde 2018 e atualmente estou transicionando minha carreira para o Desenvolvimento de Software e Dados.
+
+Meu foco atual é a construção de soluções backend e análise de dados utilizando **Python**. Valorizo código limpo, lógica de programação sólida e o entendimento profundo do funcionamento das ferramentas.
+
+**Foco Principal:**
+* **Desenvolvimento Backend:** Python (Flask), integração de APIs e bancos de dados SQL/NoSQL.
+* **Ciência de Dados:** Cursando Bootcamp de Data Science (Santander/DIO), com foco em manipulação de dados com Pandas.
+* **Aprendizado Contínuo:** Foco em sair da teoria para a prática autônoma.
+
+---
+
+### Technologies & Tools
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   
-On my GitHub, you will find:<br>
-<li>Backend-focused systems and data manipulation</li>
-<li>Python applications with well-commented and organized code</li>
-<li>Study projects with HTML, CSS, and JavaScript to reinforce front-end concepts.</li>
-<br>
+  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div><br>
 
-I am self-taught, naturally curious, and I believe the best way to learn is by building, testing, failing, and improving.
-I like to understand how things work under the hood and am always exploring new tools, frameworks, and best development practices.
-My goal is to grow as a developer, contribute to real projects, and become increasingly skilled technically.
+---
 
-</div> <hr>
+### GitHub Stats
 
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLourega&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLourega&layout=compact&theme=github_dark)
 
-PTBR:<br>
-<div>
-Sou apaixonado por tecnologia e programação, sempre em busca de aprender algo novo e evoluir como desenvolvedor.
-Atualmente estudo Análise e Desenvolvimento de Sistemas na FADERGS e foco meus esforços em desenvolvimento backend e web, com ênfase em Python, Flask, HTML, CSS, JavaScript e SQLite.
-Tenho me dedicado a criar projetos práticos, explorar conceitos de lógica, estruturas de dados e resolver problemas reais com código limpo, simples e funcional.<br><br>
+---
 
-No meu GitHub, você encontrará:
-<li>
-Sistemas com foco em backend e manipulação de dados;
-</li><li>
-Aplicações em Python com código comentado e organizado;
-</li> <li>
-Projetos de estudo com HTML, CSS e JavaScript para fixar conceitos de front-end.
-</li><br>
-Sou autodidata, curioso por natureza e acredito que a melhor forma de aprender é construindo, testando, errando e melhorando.<br>
-Gosto de entender como as coisas funcionam por dentro e estou sempre explorando novas ferramentas, frameworks e boas práticas de desenvolvimento.
-Meu objetivo é crescer como desenvolvedor, contribuir para projetos reais e me tornar cada vez mais capaz tecnicamente.
-</div>
-<hr>
+### Key Projects
 
-### Experiences and Technologies:<br>
+* **[Inventory Management & ETL (Ferragem)](https://github.com/PedroLourega/ferragem_etl)**
+    * *Python, Pandas, MongoDB Atlas, PyMongo*
+    * Automates data processing (ETL) to migrate local spreadsheets to a cloud NoSQL database. Features data cleaning (currency/encoding), modular architecture, and a CLI for inventory management.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+* **[Game Data ETL Pipeline](https://github.com/PedroLourega/projeto_pratico_ETL_python)**
+    * *Python, Pandas, CSV*
+    * Educational ETL project simulating automated messaging for gamers. Extracts data from CSV, applies business logic for status-based messaging, and exports processed results.
 
+* **[Lan House System](https://github.com/PedroLourega/sistema_lanhouse)**
+    * *Python, Flask, SQLite, HTML/CSS/JS*
+    * Full-stack system for managing time usage and billing in a Lan House environment.
 
+* **[Connect Psicólogos](https://github.com/PedroLourega/sitema_psicologos)**
+    * *Python, Flask, SQLite*
+    * Platform designed to connect psychologists with patients (Study Project).
 
+* **[Coffee Shop Page](https://github.com/PedroLourega/coffee_website_study)**
+    * *HTML, CSS, JavaScript*
+    * Front-end study project focusing on responsive design and layout.
 
+* **[General Studies](https://github.com/PedroLourega/study)**
+    * Repository documenting my learning path, algorithms, and logic exercises.
+
+---
 
 <p align="center">
- <img alt="Github Stats" height="200em" src="https://github-readme-stats.vercel.app/api?username=PedroLourega&show_icons=true&theme=github_dark"></img>
- <img alt="Most used languages" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLourega&theme=github_dark"></img>
+  <img height="200px" src="https://media1.tenor.com/m/JWJRjZFUa_cAAAAC/one-piece-anime.gif">
 </p>
-
-
-<hr>
-
-### Links:<br>
-
-
-* <a href="https://github.com/PedroLourega/study"> Studies</a><br>
-* <a href="https://github.com/PedroLourega/projects"> Study Projects</a><br>
-* <a href="https://github.com/PedroLourega/coffee_website_study"> Coffee Shop</a>(HTML, CSS e JavaScript)<br>
-* <a href="https://github.com/PedroLourega/sistema_lanhouse"> Lan House System</a>(Python, HTML, CSS, JavaScript, Flask, SQLite)<br>
-* <a href="https://github.com/PedroLourega/sitema_psicologos"> Connect Psicologos System </a>(Python, HTML, CSS, JavaScript, Flask, SQLite)<br>
-
-
-<hr>
-
-<p align="center">
-  <img height="250px" src="https://media1.tenor.com/m/JWJRjZFUa_cAAAAC/one-piece-anime.gif"></img><br>
-</p>
-
