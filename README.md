@@ -2,20 +2,6 @@
   <img src="github_wallpaper.jpg" width="100%">
 </p>
 
-## Hello, I'm Pedro Lourega.
-
-I am a Systems Analysis and Development student at FADERGS based in Porto Alegre, Brazil.
-With a professional background in IT Infrastructure and Support since 2018, I am currently transitioning my career towards Software Development and Data Science.
-
-My current focus is on building robust backend solutions and exploring data analysis using **Python**. I value clean code, logical problem-solving, and understanding how systems work under the hood.
-
-**Main Focus:**
-* **Backend Development:** Python (Flask), API integration, and SQL/NoSQL databases.
-* **Data Science:** Currently enrolled in a Data Science Bootcamp (Santander/DIO), focusing on data manipulation with Pandas.
-* **Continuous Learning:** Moving from theoretical knowledge to practical, autonomous application.
-
----
-
 ## Olá, sou Pedro Lourega.
 
 Estudante de Análise e Desenvolvimento de Sistemas na FADERGS, residente em Porto Alegre.
