@@ -32,6 +32,8 @@ Meu foco atual é a construção de soluções backend e análise de dados utili
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="SQL" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" />
+  <img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">
 </div><br>
 
 ---
