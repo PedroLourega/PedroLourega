@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="github_wallpaper.jpg" width="100%">
-</p>
-
-## Olá, sou Pedro Lourega.
+## Olá, me chamo Pedro Lourega.
 
 Estudante de Análise e Desenvolvimento de Sistemas na FADERGS, residente em Porto Alegre.
 Possuo experiência profissional em Infraestrutura de TI e Suporte Técnico desde 2018 e atualmente estou transicionando minha carreira para o Desenvolvimento de Software e Dados.
