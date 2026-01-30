@@ -1,4 +1,4 @@
-## Olá, me chamo Pedro Lourega.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Olá,+Seja+muito+bem-vindo!;Me+chamo+Pedro+Lourega!;Sou+Data+Analyst;Especialista+em+Python+e+SQL)](https://git.io/typing-svg)
 
 Estudante de Análise e Desenvolvimento de Sistemas na FADERGS, residente em Porto Alegre.
 Possuo experiência profissional em Infraestrutura de TI e Suporte Técnico desde 2018 e atualmente estou transicionando minha carreira para o Desenvolvimento de Software e Dados.
