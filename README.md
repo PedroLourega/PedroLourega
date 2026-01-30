@@ -17,9 +17,9 @@ Atualmente aprofundando estudos em Ciência de Dados, IA e AWS, com foco em ambi
 
 ---
 
-<h3 align="center">
-  <strong>Tecnologias e Ferramentas:</strong>
-</h3>
+
+### Tecnologias e Ferramentas:
+
 <div style="display: inline_block" align="center" margin=20px gap=20px><br>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
