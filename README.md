@@ -1,14 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Olá,+Seja+muito+bem-vindo!;Me+chamo+Pedro+Lourega!;Sou+Data+Analyst;Especialista+em+Python+e+SQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Olá,+Seja+muito+bem-vindo!;Me+chamo+Pedro+Lourega!;Sou+Data+Analyst!!;Especialista+em+Python+e+SQL!)](https://git.io/typing-svg)
 
-Estudante de Análise e Desenvolvimento de Sistemas na FADERGS, residente em Porto Alegre.
-Possuo experiência profissional em Infraestrutura de TI e Suporte Técnico desde 2018 e atualmente estou transicionando minha carreira para o Desenvolvimento de Software e Dados.
+Analista de Dados Júnior com foco em Python, SQL e pipelines de ETL.
 
-Meu foco atual é a construção de soluções backend e análise de dados utilizando **Python**. Valorizo código limpo, lógica de programação sólida e o entendimento profundo do funcionamento das ferramentas.
+Experiência prática no desenvolvimento de rotinas de extração, transformação e carga de dados utilizando Pandas, SQL e MongoDB. Atuação com limpeza, padronização, validação e conversão de dados provenientes de arquivos CSV e bases relacionais e NoSQL.
 
-**Foco Principal:**
-* **Desenvolvimento Backend:** Python (Flask), integração de APIs e bancos de dados SQL/NoSQL.
-* **Ciência de Dados:** Cursando Bootcamp de Data Science (Santander/DIO), com foco em manipulação de dados com Pandas.
-* **Aprendizado Contínuo:** Foco em sair da teoria para a prática autônoma.
+Vivência em automação de processos, integração entre sistemas, manipulação de dados estruturados e construção de soluções orientadas à resolução de problemas reais.
+
+Conhecimentos adicionais em desenvolvimento web com Flask, modelagem de bancos de dados, versionamento com Git e uso de Excel como apoio analítico.
+
+Atualmente aprofundando estudos em Ciência de Dados, IA e AWS, com foco em ambientes produtivos e boas práticas de engenharia de dados.
 
 ---
 
