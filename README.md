@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Olá,+Seja+muito+bem-vindo!;Me+chamo+Pedro+Lourega!;Sou+Data+Analyst!!;Especialista+em+Python+e+SQL!)](https://git.io/typing-svg)
 
-Analista de Dados Júnior com foco em Python, SQL e pipelines de ETL.
+### Sobre mim:
+
+*Analista de Dados Júnior* com foco em *Python, SQL e pipelines de ETL*.
+
+Estudante de *Análise e Desenvolvimento de Sistemas* na *FADERGS*
 
 Experiência prática no desenvolvimento de rotinas de extração, transformação e carga de dados utilizando Pandas, SQL e MongoDB. Atuação com limpeza, padronização, validação e conversão de dados provenientes de arquivos CSV e bases relacionais e NoSQL.
 
@@ -12,7 +16,7 @@ Atualmente aprofundando estudos em Ciência de Dados, IA e AWS, com foco em ambi
 
 ---
 
-### Technologies & Tools
+### Tecnologias e Ferramentas:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -34,14 +38,14 @@ Atualmente aprofundando estudos em Ciência de Dados, IA e AWS, com foco em ambi
 
 ---
 
-### GitHub Stats
+### GitHub Stats:
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLourega&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLourega&layout=compact&theme=github_dark)
 
 ---
 
-### Key Projects
+### Projetos:
 
 * **[Inventory Management & ETL (Ferragem)](https://github.com/PedroLourega/ferragem_etl)**
     * *Python, Pandas, MongoDB Atlas, PyMongo*
