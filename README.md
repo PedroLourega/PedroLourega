@@ -1,5 +1,5 @@
 
-## Analista de Dados Júnior com foco em Python, SQL e pipelines de ETL
+## Analista de Dados com foco em Python, SQL e pipelines de ETL
 
 ### Sobre mim:
 
