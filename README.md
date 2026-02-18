@@ -3,7 +3,7 @@
 
 ### Sobre mim:
 
-*Analista de Dados Júnior* com foco em *Python, SQL e pipelines de ETL*.
+*Analista de Dados* com foco em *Python, SQL e pipelines de ETL*.
 
 Estudante de *Análise e Desenvolvimento de Sistemas* na *FADERGS*
 
