@@ -5,13 +5,13 @@
 
 Estudante de *Análise e Desenvolvimento de Sistemas* na *FADERGS*
 
-Experiência prática no desenvolvimento de rotinas de extração, transformação e carga de dados utilizando Pandas, SQL e MongoDB. Atuação com limpeza, padronização, validação e conversão de dados provenientes de arquivos CSV e bases relacionais e NoSQL.
+Experiência prática no desenvolvimento de rotinas de extração, transformação e carga de dados utilizando Pandas, SQL e MongoDB. Atuação com limpeza, padronização, validação e conversão de dados provenientes de arquivos, bases relacionais e NoSQL.
 
 Vivência em automação de processos, integração entre sistemas, manipulação de dados estruturados e construção de soluções orientadas à resolução de problemas reais.
 
 Conhecimentos adicionais em desenvolvimento web com Flask, modelagem de bancos de dados, versionamento com Git e uso de Excel como apoio analítico.
 
-Atualmente aprofundando estudos em Ciência de Dados, IA e AWS, com foco em ambientes produtivos e boas práticas de engenharia de dados.
+Atualmente aprofundando estudos em Ciência de Dados, Python, IA e SQL.
 
 ---
 
