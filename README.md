@@ -38,12 +38,6 @@ Atualmente aprofundando estudos em Ciência de Dados, Python, IA e SQL.
 
 ---
 
-### GitHub Stats:
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLourega&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLourega&layout=compact&theme=github_dark)
-
----
 
 ### Projetos:
 
