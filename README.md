@@ -37,8 +37,10 @@ Atualmente aprofundando estudos em Ciência de Dados, Python, IA e SQL.
 </div><br>
 
 ---
+
 ![Pedro Lourega GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolourega)
 
+---
 ### Projetos:
 
 * **[Inventory Management & ETL (Ferragem)](https://github.com/PedroLourega/ferragem_etl)**
