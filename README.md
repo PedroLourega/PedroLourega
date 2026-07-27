@@ -4,7 +4,8 @@
 ### Sobre mim:
 
 Graduando do último semestre em Análise e Desenvolvimento de Sistemas na FADERGS, atualmente atuando na área de dados. 
-Tenho um perfil autodidata e valorizo extremamente a compreensão profunda das tecnologias, busco entender a lógica por trás das ferramentas que utilizo para construir soluções bem estruturadas. Sou movido por uma forte curiosidade técnica e meu aprendizado é contínuo e fundamentado em diversas fontes, como na leitura de documentações, livros, vídeo-aulas, cursos, e no desenvolvimento de projetos práticos.
+Tenho um perfil autodidata e valorizo extremamente a compreensão profunda das tecnologias, busco entender a lógica por trás das ferramentas que utilizo, para construir soluções cada vez mais estruturadas. 
+Sou motivado por uma forte curiosidade técnica e meu aprendizado é contínuo, fundamentado em diversas fontes, como na leitura de documentações, livros, vídeo-aulas, cursos, e no desenvolvimento de projetos práticos.
 
 Além da tecnologia, mantenho uma rotina de estudos da língua inglesa, visando o acesso a materiais técnicos. Além disso, sigo aprofundando meus conhecimentos em Ciência de Dados, IA e infraestrutura backend.
 
