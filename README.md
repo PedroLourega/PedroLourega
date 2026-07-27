@@ -35,7 +35,3 @@ Atualmente aprofundando estudos em Ciência de Dados, Python, IA e SQL.
   
   
 </div><br>
-
-* **[General Studies](https://github.com/PedroLourega/study)**
-    * Repository documenting my learning path, algorithms, and logic exercises.
-
