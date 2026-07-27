@@ -3,15 +3,10 @@
 
 ### Sobre mim:
 
-Estudante de *Análise e Desenvolvimento de Sistemas* na *FADERGS*
+Graduando do último semestre em Análise e Desenvolvimento de Sistemas na FADERGS, atualmente atuando na área de dados. 
+Tenho um perfil autodidata e valorizo extremamente a compreensão profunda das tecnologias, busco entender a lógica por trás das ferramentas que utilizo para construir soluções bem estruturadas. Sou movido por uma forte curiosidade técnica e meu aprendizado é contínuo e fundamentado em diversas fontes, como na leitura de documentações, livros, vídeo-aulas, cursos, e no desenvolvimento de projetos práticos.
 
-Experiência prática no desenvolvimento de rotinas de extração, transformação e carga de dados utilizando Pandas, SQL e MongoDB. Atuação com limpeza, padronização, validação e conversão de dados provenientes de arquivos, bases relacionais e NoSQL.
-
-Vivência em automação de processos, integração entre sistemas, manipulação de dados estruturados e construção de soluções orientadas à resolução de problemas reais.
-
-Conhecimentos adicionais em desenvolvimento web com Flask, modelagem de bancos de dados, versionamento com Git e uso de Excel como apoio analítico.
-
-Atualmente aprofundando estudos em Ciência de Dados, Python, IA e SQL.
+Além da tecnologia, mantenho uma rotina de estudos da língua inglesa, visando o acesso a materiais técnicos. Além disso, sigo aprofundando meus conhecimentos em Ciência de Dados, IA e infraestrutura backend.
 
 ---
 
