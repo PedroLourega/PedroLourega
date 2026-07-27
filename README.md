@@ -36,29 +36,6 @@ Atualmente aprofundando estudos em Ciência de Dados, Python, IA e SQL.
   
 </div><br>
 
----
-### Projetos:
-
-* **[Inventory Management & ETL (Ferragem)](https://github.com/PedroLourega/ferragem_etl)**
-    * *Python, Pandas, MongoDB Atlas, PyMongo*
-    * Automates data processing (ETL) to migrate local spreadsheets to a cloud NoSQL database. Features data cleaning (currency/encoding), modular architecture, and a CLI for inventory management.
-
-* **[Game Data ETL Pipeline](https://github.com/PedroLourega/projeto_pratico_ETL_python)**
-    * *Python, Pandas, CSV*
-    * Educational ETL project simulating automated messaging for gamers. Extracts data from CSV, applies business logic for status-based messaging, and exports processed results.
-
-* **[Lan House System](https://github.com/PedroLourega/sistema_lanhouse)**
-    * *Python, Flask, SQLite, HTML/CSS/JS*
-    * Full-stack system for managing time usage and billing in a Lan House environment.
-
-* **[Connect Psicólogos](https://github.com/PedroLourega/sitema_psicologos)**
-    * *Python, Flask, SQLite*
-    * Platform designed to connect psychologists with patients (Study Project).
-
-* **[Coffee Shop Page](https://github.com/PedroLourega/coffee_website_study)**
-    * *HTML, CSS, JavaScript*
-    * Front-end study project focusing on responsive design and layout.
-
 * **[General Studies](https://github.com/PedroLourega/study)**
     * Repository documenting my learning path, algorithms, and logic exercises.
 
