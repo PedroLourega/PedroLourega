@@ -14,7 +14,7 @@ Além da tecnologia, mantenho uma rotina de estudos da língua inglesa, visando 
 
 ### Tecnologias e Ferramentas:
 
-<div align="center">
+<div>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
